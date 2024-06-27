@@ -4,7 +4,6 @@ This project implements a symbol table for a compiler using hash tables, providi
 
 ## Key Features
 
-- **Hash Table Implementation:** Fast and efficient storage and retrieval of symbols.
+- **Hash Table Implementation:** Fast and efficient retrieval of symbols.
 - **Nested Scope Support:** Manage symbols within nested scopes seamlessly.
 - **Recursive Lookup:** Automatically search parent scopes if a symbol is not found in the current scope.
-- **Ease of Use:** Simple API for inserting and looking up symbols.
